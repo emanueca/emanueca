@@ -1,23 +1,23 @@
 # Hi 👋, I'm Emanuel Ziegler Martins
 
-Um entusiasta da tecnologia, formado Técnico em Informática pelo IFFAR-FW e aspirante a Cientista da Computação na UFRGS, com foco em desenvolvimento Full-stack.
+Um entusiasta da tecnologia, tentando se formar em Técnico em Informática pelo IFFAR-FW e aspirante a Cientista da Computação na UFRGS, com foco em desenvolvimento.
 
 ---
 
 <!-- Seus links de redes sociais e contato -->
 <p align="left">
-  <a href="https://www.linkedin.com/in/SEU_USUARIO_LINKEDIN" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn"/>
+  <a href="https://www.instagram.com/emanuel_zzie" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="https://steamcommunity.com/id/emanueca" target="_blank">
+    <img src="https://img.shields.io/badge/-Steam-000000?style=flat-square&logo=Steam&logoColor=white" alt="Steam"/>
+  </a>
+  <a href="https://github.com/emanuecaIFFar" target="_blank">
+    <img src="https://img.shields.io/badge/-GitHub (antigo)-6e5494?style=flat-square&logo=GitHub&logoColor=white" alt="GitHub Antigo"/>
   </a>
   <a href="mailto:emanuelziegler3@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <!-- Você pode adicionar um link para o Twitter se tiver -->
-  <!-- <a href="https://twitter.com/SEU_USUARIO_TWITTER" target="_blank">
-    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=Twitter&logoColor=white" alt="Twitter"/>
-  </a> -->
-  <!-- Contador de visualizações do perfil (opcional, requer configuração ou uso de um serviço) -->
-  <img src="https://gpvc.arturio.dev/SEU_USUARIO_GITHUB" alt="Profile views"/>
 </p>
 
 ---
