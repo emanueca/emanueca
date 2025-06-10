@@ -28,7 +28,7 @@ Entusiasta da tecnologia, atualmente cursando <strong>Técnico em Informática</
 *   Cursando um ens. Médio Integrado como Técnico em Informática pelo **Instituto Federal Farroupilha - Campus Frederico Westphalen (IFFAR-FW)**.
 *   Atualmente, busco ingressar no curso de **Ciência da Computação na Universidade Federal do Rio Grande do Sul (UFRGS)**.
 *   Focado em aprender e aplicar conhecimentos em desenvolvimento.
-*   Meu portfólio está disponível aqui no GitHub: <emanuecaIFFar/portfolio> (https://nuecaontrack.neocities.org)
+*   Meu portfólio está disponível aqui no GitHub: <emanuecaIFFar/portfolio> / (https://nuecaontrack.neocities.org)
 
 ---
 
