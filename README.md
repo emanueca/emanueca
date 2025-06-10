@@ -1,6 +1,6 @@
 # Hi 👋, I'm Emanuel Ziegler Martins
 
-Um entusiasta da tecnologia, tentando se formar em Técnico em Informática pelo IFFAR-FW e aspirante a Cientista da Computação na UFRGS, com foco em desenvolvimento.
+Entusiasta da tecnologia, atualmente cursando <strong>Técnico em Informática</strong> no IFFar – Campus Frederico Westphalen, com o objetivo de ingressar em <strong>Ciência da Computação</strong> na UFRGS, focando na área de <strong>desenvolvimento</strong>.
 
 ---
 
