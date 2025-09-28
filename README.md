@@ -1,4 +1,4 @@
-# Hi 👋, I'm Emanuel Ziegler Martins />
+# Hi 👋, I'm Emanuel Ziegler Martins 
 
 Entusiasta da tecnologia, atualmente cursando <strong>Técnico em Informática</strong> no IFFar – Campus Frederico Westphalen, com o objetivo de ingressar em <strong>Ciência da Computação</strong> na UFRGS, focando na área de <strong>desenvolvimento</strong>.
 
