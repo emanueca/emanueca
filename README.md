@@ -4,7 +4,7 @@ Entusiasta da tecnologia, atualmente cursando <strong>Técnico em Informática</
 
 ---
 
-<!-- Seus links de redes sociais e contato -->
+<!--redes sociais-->
 <p align="left">
   <a href="https://www.instagram.com/emanuel_zzie" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white" alt="Instagram"/>
@@ -37,7 +37,7 @@ Entusiasta da tecnologia, atualmente cursando <strong>Técnico em Informática</
 <details>
   <summary><strong>Linguagens de Programação</strong></summary>
   <br/>
-<!-- Linguagens que conheço ou estou aprendendo -->
+<!-- Linguagens-->
 <p align="left">
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" />
@@ -55,27 +55,27 @@ Entusiasta da tecnologia, atualmente cursando <strong>Técnico em Informática</
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" />
   </a>
 </p>
-    <!-- Adicione mais conforme necessário -->
+    <!-- adicionar + -->
   </p>
 </details>
 
 <details>
   <summary><strong>Frameworks e Bibliotecas</strong></summary>
   <br/>
-  <!-- Adicione os frameworks e bibliotecas que você conhece ou está aprendendo -->
+  <!-- adicionar os frameworks e biblioteca-->
   <p align="left">
     <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
     <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="Node.js" /></a>
     <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express.js" /></a>
     <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/spring-colored.svg" width="36" height="36" alt="Spring Boot" /></a>
-    <!-- Adicione mais conforme necessário -->
+    <!-- adicionar + -->
   </p>
 </details>
 
 <details>
   <summary><strong>Bancos de Dados</strong></summary>
   <br/>
-  <!-- Bancos de dados que conheço ou estou aprendendo -->
+  <!-- BC que conheço -->
 <p align="left">
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" />
@@ -87,14 +87,14 @@ Entusiasta da tecnologia, atualmente cursando <strong>Técnico em Informática</
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" />
   </a>
 </p>
-    <!-- Adicione mais conforme necessário -->
+    <!-- adicionar + -->
   </p>
 </details>
 
 <details>
   <summary><strong>Ferramentas e Ambiente</strong></summary>
   <br/>
-  <!-- Adicione as ferramentas que você usa -->
+  <!--ferramentas-->
   <!-- Ferramentas e plataformas -->
 <p align="left">
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
@@ -135,4 +135,4 @@ Entusiasta da tecnologia, atualmente cursando <strong>Técnico em Informática</
 
 ---
 
-> “Se vi mais longe, foi por estar sobre ombros de gigantes.” — **Isaac Newton**
+> “Qualquer pessoa que nunca cometeu um erro, nunca tentou nada novo.” — **Albert Einstein, físico teórico.**
