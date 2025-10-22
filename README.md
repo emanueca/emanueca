@@ -23,7 +23,7 @@ Entusiasta da tecnologia, atualmente cursando <strong>Técnico em Informática</
 - Cursando **Técnico em Informática** pelo IFFar–FW.
 - Buscando ingressar em **Ciência da Computação (UFRGS)**.
 - Focado em aprender e aplicar conhecimentos de **desenvolvimento**.
-- Portfólio: [meus repositórios](https://github.com/emanuecaIFFar) • Site: [nuecaontrack.neocities.org](https://nuecaontrack.neocities.org)
+- **back-end**
 
 ## 🌱 Minhas habilidades (em desenvolvimento e aprendizado)
 
