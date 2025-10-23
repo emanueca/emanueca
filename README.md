@@ -121,8 +121,8 @@ Entusiasta da tecnologia, atualmente cursando <strong>Técnico em Informática</
 ---
 
 <!-- OUTRO • GIF à esquerda (com clique para ampliar) -->
-<a href="nematoda/archives/emanuelbackournd.gif" target="_blank" title="Open larger">
-  <img src="emanueca/assets/emanuelbck.gif"
+<a href="./assets/emanuelbck.gif" target="_blank" title="Open larger">
+  <img src="./assets/emanuelbck.gif"
        alt="Thanks for stopping by — drop a star if you liked it!"
        width="720"
        style="border-radius:12px;">
