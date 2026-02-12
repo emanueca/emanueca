@@ -9,7 +9,7 @@ Entusiasta da tecnologia, atualmente cursando <strong>Técnico em Informática</
   <a href="https://steamcommunity.com/id/emanueca" target="_blank">
     <img src="https://img.shields.io/badge/-Steam-000000?style=flat-square&logo=Steam&logoColor=white" alt="Steam"/>
   </a>
-  <a href="https://github.com/emanuecaIFFar" target="_blank">
+  <a href="https://github.com/emanueca" target="_blank">
     <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=white" alt="GitHub"/>
   </a>
   <a href="mailto:emanuelziegler3@gmail.com">
@@ -105,14 +105,12 @@ Entusiasta da tecnologia, atualmente cursando <strong>Técnico em Informática</
 
 <div align="center">
   <img height="165"
-       src="https://github-readme-stats.vercel.app/api?username=emanuecaIFFar&show_icons=true&theme=radical&include_all_commits=true&count_private=true&border_radius=12"
-       alt="GitHub Stats de emanuecaIFFar"/>
+       src="https://github-readme-stats.vercel.app/api?username=emanueca&show_icons=true&theme=radical&include_all_commits=true&count_private=true&border_radius=12"
+       alt="GitHub Stats de emanueca"/>
   <img height="165"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=emanuecaIFFar&layout=compact&langs_count=8&theme=radical&border_radius=12"
-       alt="Linguagens mais usadas por emanuecaIFFar"/>
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=emanueca&layout=compact&langs_count=8&theme=radical&border_radius=12"
+       alt="Linguagens mais usadas por emanueca"/>
 </div>
-
-
 
 <a href="./assets/emanuelbck.gif" target="_blank" title="Open larger">
   <img src="./assets/emanuelbck.gif"
