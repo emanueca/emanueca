@@ -22,7 +22,7 @@ Entusiasta da tecnologia, atualmente cursando <strong>Técnico em Informática</
 - Buscando ingressar em *Ciência da Computação (UFRGS)*.
 - *back-end*
 
-## 🌱 Minhas habilidades (em desenvolvimento e aprendizado)
+## 🌱 Minhas habilidades
 
 <details>
   <summary><strong>Linguagens de Programação</strong></summary>
