@@ -2,7 +2,6 @@
 
 Entusiasta da tecnologia, atualmente cursando <strong>Técnico em Informática</strong> no IFFar – Campus Frederico Westphalen, com o objetivo de ingressar em <strong>Ciência da Computação</strong> na UFRGS, focando na área de <strong>desenvolvimento</strong>.
 
-<!-- redes sociais -->
 <p align="left">
   <a href="https://www.instagram.com/emanuel_zzie" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white" alt="Instagram"/>
@@ -18,11 +17,9 @@ Entusiasta da tecnologia, atualmente cursando <strong>Técnico em Informática</
   </a>
 </p>
 
-## 👨‍💻 Sobre mim
-- Sou *Emanuel Ziegler Martins*.
+## 👨‍💻 About Me
 - Cursando *Técnico em Informática* pelo IFFar–FW.
 - Buscando ingressar em *Ciência da Computação (UFRGS)*.
-- Focado em aprender e aplicar conhecimentos de *desenvolvimento*.
 - *back-end*
 
 ## 🌱 Minhas habilidades (em desenvolvimento e aprendizado)
@@ -106,7 +103,6 @@ Entusiasta da tecnologia, atualmente cursando <strong>Técnico em Informática</
   </p>
 </details>
 
-<!-- GitHub Stats - lado a lado (com bordas arredondadas) -->
 <div align="center">
   <img height="165"
        src="https://github-readme-stats.vercel.app/api?username=emanuecaIFFar&show_icons=true&theme=radical&include_all_commits=true&count_private=true&border_radius=12"
@@ -116,11 +112,8 @@ Entusiasta da tecnologia, atualmente cursando <strong>Técnico em Informática</
        alt="Linguagens mais usadas por emanuecaIFFar"/>
 </div>
 
-> “Qualquer pessoa que nunca cometeu um erro, nunca tentou nada novo.” — <strong>Albert Einstein</strong>
 
----
 
-<!-- OUTRO • GIF à esquerda (com clique para ampliar) -->
 <a href="./assets/emanuelbck.gif" target="_blank" title="Open larger">
   <img src="./assets/emanuelbck.gif"
        alt="Thanks for stopping by — drop a star if you liked it!"
