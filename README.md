@@ -17,12 +17,12 @@ Entusiasta da tecnologia, atualmente cursando <strong>Técnico em Informática</
   </a>
 </p>
 
-## 👨‍💻 About Me
+## About Me
 - Cursando *Técnico em Informática* pelo IFFar–FW.
 - Buscando ingressar em *Ciência da Computação (UFRGS)*.
 - *back-end*
 
-## 🌱 Minhas habilidades
+## Minhas habilidades
 
 <details>
   <summary><strong>Linguagens de Programação</strong></summary>
